@@ -13,6 +13,8 @@ namespace ExistingRepositoryDemo
             PrintClass.PrintMessage();
 
             Console.WriteLine("Finished");
+
+            Console.ReadLine();
         }
     }
 }
