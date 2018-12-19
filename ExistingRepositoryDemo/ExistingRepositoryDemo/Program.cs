@@ -13,7 +13,9 @@ namespace ExistingRepositoryDemo
             PrintClass.PrintMessage();
 
             Console.WriteLine("Are we Finished?");
-
+            
+            Console.WriteLine("Possibly...");
+            
             PrintClass2.PrintMessage();
 
             Console.WriteLine("Finished");
