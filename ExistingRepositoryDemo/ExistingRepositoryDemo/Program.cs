@@ -12,6 +12,8 @@ namespace ExistingRepositoryDemo
         {
             PrintClass.PrintMessage();
 
+            PrintClass2.PrintMessage();
+
             Console.WriteLine("Finished");
 
             Console.ReadLine();
