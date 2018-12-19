@@ -10,7 +10,9 @@ namespace ExistingRepositoryDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test print");
+            PrintClass.PrintMessage();
+
+            Console.WriteLine("Finished");
         }
     }
 }
