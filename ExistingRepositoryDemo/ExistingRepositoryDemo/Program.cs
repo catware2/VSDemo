@@ -24,6 +24,8 @@ namespace ExistingRepositoryDemo
 
             Console.WriteLine("Finished?");
 
+            Console.WriteLine("Now we're on GitHub!");
+
             Console.ReadLine();
         }
     }
