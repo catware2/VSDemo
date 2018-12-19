@@ -18,6 +18,8 @@ namespace ExistingRepositoryDemo
             
             PrintClass2.PrintMessage();
 
+            Console.WriteLine("Now in Master branch");
+
             Console.WriteLine("Finished");
 
             Console.ReadLine();
