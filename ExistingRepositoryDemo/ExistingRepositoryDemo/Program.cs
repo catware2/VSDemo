@@ -20,6 +20,10 @@ namespace ExistingRepositoryDemo
 
             Console.WriteLine("Finished");
 
+            Console.WriteLine("I thought we were");
+
+            Console.WriteLine("Finished?");
+
             Console.ReadLine();
         }
     }
