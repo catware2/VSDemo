@@ -12,7 +12,7 @@ namespace ExistingRepositoryDemo
         {
             PrintClass.PrintMessage();
 
-            Console.WriteLine("Finished");
+            Console.WriteLine("Are we Finished?");
 
             Console.ReadLine();
         }
