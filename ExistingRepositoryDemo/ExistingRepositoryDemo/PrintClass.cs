@@ -11,6 +11,8 @@ namespace ExistingRepositoryDemo
         public static void PrintMessage()
         {
             Console.WriteLine("A new message");
+
+            Console.WriteLine("Why are we here?");
         }
     }
 }
