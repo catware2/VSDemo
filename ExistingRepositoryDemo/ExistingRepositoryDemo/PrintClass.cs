@@ -13,6 +13,8 @@ namespace ExistingRepositoryDemo
             Console.WriteLine("A new message");
 
             Console.WriteLine("Why are we here?");
+
+            Console.WriteLine("Who knows");
         }
     }
 }
